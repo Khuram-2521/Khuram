@@ -5,13 +5,13 @@
   
   <!-- Social Media Icons -->
   <a href="https://github.com/Khuram-2521">
-    <img src="https://img.icons8.com/material-outlined/24/000000/github.png" alt="GitHub" />
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-khuram-5a4291282/">
-    <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/khuram_mks1">
-    <img src="https://img.icons8.com/material-outlined/24/000000/twitter.png" alt="Twitter" />
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/twitter.png" alt="Twitter" />
   </a>
     </div>
   <!-- Other Content -->
