@@ -6,8 +6,8 @@
 
 <!-- Social Media Icons -->
 <!--Github, Twitter, Linkedin, Gmail-->
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Khuram-2521) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/khuram_mks1) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammad-khuram-5a4291282//) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](muhammadkhuramshahzad3.2003@gmail.com)
-|---|---|---|---|
+| ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github) | ![Linkein](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin&logoColor=white) | ![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=x) | ![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail) | ![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram) | ![Facebook](https://img.shields.io/badge/-Facebook-white?style=flat&logo=facebook) |
+|---|---|---|---|---|---|
 
 ----
 
@@ -17,14 +17,10 @@
   <p>I'm a passionate FrontEnd Developer and UI/UX designer based in Islamabad.</p>
   
 <h2> Technologies of my interest are:</h2>
-Front-end Web Development 🌐
 
-  | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-|---|---|---|---|
 
-----
-
-  - UI/UX Designing 🎨
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  | ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma) | 
+|---|---|---|---|---|
 
 
 
